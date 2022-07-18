@@ -2,21 +2,23 @@
 
 Pada terminal lakukan langkah berikut :
 
-composer install
+jalankan composer install pada terminal
 
-npm install
+jalankan npm install pada terminal
 
-npm run dev
+Copy .env.example dan beri nama .env
 
 Setting database terlebih dahulu
 
-php artisan migrate
+jalankan npm run dev pada terminal
 
-php artisan db:seed
+jalankan php artisan migrate pada terminal
 
-php artisan optimize:clear
+jalankan php artisan db:seed pada terminal
 
-php artisan serve
+jalankan php artisan optimize:clear pada terminal
+
+jalankan php artisan serve pada terminal
 
 # AKUN LOGIN
 
